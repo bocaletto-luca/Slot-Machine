@@ -5,6 +5,8 @@
 [![Made with CSS3](https://img.shields.io/badge/Made%20with-CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Slot-Machine/)
+
 **Slot Machine Web Game** is a modern, responsive, single‑page slot machine game with fixed bet buttons and dynamic betting. Spin the reels to win (if all three symbols match) your bet multiplied by 10, with engaging audio and an intuitive dark‑theme design. Developed by **Bocaletto Luca**.
 
 ---
