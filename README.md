@@ -61,3 +61,5 @@ A responsive online slot machine with fixed bet buttons and dynamic betting. Spi
 2. start server example apache2 and open index.html in the browser
 
 #### GoodGame by Bocaletto Luca
+
+#### License: GPLv3
